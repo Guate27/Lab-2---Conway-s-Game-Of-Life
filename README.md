@@ -1,0 +1,1 @@
+# Lab-2---Conway-s-Game-Of-Life
